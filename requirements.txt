@@ -3,3 +3,5 @@ ase
 py3Dmol
 # tkinter
 ipython_genutils
+openai
+streamlit
